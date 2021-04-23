@@ -2,9 +2,9 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl)
 
 {
-    "name": "Keycloak auth integration",
+    "name": "Keycloak auth integration - colpari",
     "summary": "Integrate Keycloak into your SSO",
-    "version": "11.0.1.0.0",
+    "version": "11.0.1.0.0c",
     'category': 'Tools',
     "website": "https://github.com/OCA/server-auth",
     'author': 'Camptocamp, Odoo Community Association (OCA)',
